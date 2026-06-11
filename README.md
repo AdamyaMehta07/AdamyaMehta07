@@ -99,24 +99,7 @@ I'm a passionate **Full Stack Developer** from **Ujjain, India** 🇮🇳 who lo
       </div>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Three.js 3D Scene</h3>
-      <div align="center">
-        <br/>
-        <p>Interactive 3D graphics scene with real-time rendering, camera controls, and dynamic lighting effects using Three.js.</p>
-        <p><strong>Stack:</strong> Three.js · JavaScript · WebGL</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">📝 MERN Blog App</h3>
-      <div align="center">
-        <br/>
-        <p>Full-stack blog application with user authentication, CRUD operations, and responsive design.</p>
-        <p><strong>Stack:</strong> MongoDB · Express.js · React · Node.js</p>
-      </div>
-    </td>
-  </tr>
+  
 </table>
 
 ---
