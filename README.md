@@ -108,11 +108,15 @@ I'm a passionate **Full Stack Developer** from **Ujjain, India** 🇮🇳 who lo
 
 <div align="center">
 
-![Adamya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdamyaMehta07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=100a0d&title_color=fb7185&icon_color=7a1f35&text_color=fff0f3)
+<img src="https://github-readme-stats.vercel.app/api?username=AdamyaMehta07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=100a0d&title_color=fb7185&icon_color=fb7185&text_color=fff0f3&ring_color=7a1f35" alt="Adamya's GitHub Stats" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AdamyaMehta07&theme=dark&hide_border=true&background=100a0d&ring=fb7185&fire=7a1f35&currStreakLabel=fb7185)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamyaMehta07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=100a0d&title_color=fb7185&text_color=fff0f3)
+<img src="https://streak-stats.demolab.com?user=AdamyaMehta07&theme=dark&hide_border=true&background=100a0d&ring=fb7185&fire=fb7185&currStreakLabel=fb7185&sideLabels=fff0f3&dates=fff0f3&sideNums=fb7185&currStreakNum=ffffff&stroke=7a1f3540" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamyaMehta07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=100a0d&title_color=fb7185&text_color=fff0f3" alt="Top Languages" />
 
 </div>
 
@@ -122,7 +126,7 @@ I'm a passionate **Full Stack Developer** from **Ujjain, India** 🇮🇳 who lo
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=AdamyaMehta07&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)
+<img src="https://github-profile-trophy.vercel.app/?username=AdamyaMehta07&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -132,7 +136,7 @@ I'm a passionate **Full Stack Developer** from **Ujjain, India** 🇮🇳 who lo
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdamyaMehta07&bg_color=100a0d&color=fb7185&line=7a1f35&point=fb7185&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdamyaMehta07&bg_color=100a0d&color=fb7185&line=7a1f35&point=fb7185&area=true&hide_border=true" alt="Activity Graph" />
 
 </div>
 
